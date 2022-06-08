@@ -1,4 +1,4 @@
-package exampleNotification;
+package Factory.exampleNotification;
 
 public class EmailNotification implements Notification{
     @Override

@@ -1,4 +1,4 @@
-package exampleNotification;
+package Factory.exampleNotification;
 
 public class NotificationFactory {
     public Notification createNotification(String channel){

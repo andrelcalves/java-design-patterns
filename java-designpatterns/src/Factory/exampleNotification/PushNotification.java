@@ -1,4 +1,4 @@
-package exampleNotification;
+package Factory.exampleNotification;
 
 public class PushNotification implements Notification{
     @Override
